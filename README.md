@@ -1,6 +1,6 @@
 # Job Trends Analysis Project
 
-This is a collaborative project to analyze job trends across India.
+This is a  project to analyze job trends across India.
 
 ## Aim
 The aim of this project is to identify job trends across India and provide insights on the most popular job titles, job levels, companies hiring, and top cities for job opportunities.
