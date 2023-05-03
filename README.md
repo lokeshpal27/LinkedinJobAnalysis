@@ -1,5 +1,5 @@
 
-Great, here's an updated README.md file that includes the technology used:
+
 
 Jobs Analysis Project
 Aim
