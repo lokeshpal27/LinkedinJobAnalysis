@@ -23,7 +23,7 @@ We used SQL to analyze the cleaned data. Our analysis included various queries t
 We created a dynamic dashboard using Tableau to visualize our insights in a more interactive and engaging way.
 
 ## Conclusion
-Our analysis showed that [insert your findings and insights]. We hope that our findings will be useful to job seekers and companies in making informed decisions.
+Our analysis showed that Bengalore has the most number of jobs and Jammu and Kashmir has the least number of jobs. We hope that our findings will be useful to job seekers and companies in making informed decisions.
 
 ## Dependencies
 To run this project, you will need the following dependencies:
@@ -46,16 +46,7 @@ To run this project, you will need the following dependencies:
 ## Future Work
 In the future, we plan to expand our analysis to include more job markets and identify job trends in other countries. We also plan to improve the data cleaning process to automate and make it more efficient.
 
-## Contributors
-- [Insert name of contributor]
-- [Insert name of contributor]
-- [Insert name of contributor]
 
-## Contact Information
-If you have any questions or feedback about our project, please contact us at [Insert email address or contact information].
-# Job Trends Analysis Project
-
-This is a collaborative project to analyze job trends across India.
 
 ## Aim
 The aim of this project is to identify job trends across India and provide insights on the most popular job titles, job levels, companies hiring, and top cities for job opportunities.
@@ -78,7 +69,7 @@ We used SQL to analyze the cleaned data. Our analysis included various queries t
 We created a dynamic dashboard using Tableau to visualize our insights in a more interactive and engaging way.
 
 ## Conclusion
-Our analysis showed that [insert your findings and insights]. We hope that our findings will be useful to job seekers and companies in making informed decisions.
+Our analysis showed that Bengalore has the most number of jobs and Jammu and Kashmir has the least number of jobs. We hope that our findings will be useful to job seekers and companies in making informed decisions.
 
 ## Dependencies
 To run this project, you will need the following dependencies:
@@ -96,16 +87,9 @@ To run this project, you will need the following dependencies:
 4. Clean the data using Python and Pandas
 5. Import the cleaned data to a SQL database
 6. Analyze the data using SQL queries
-7. Create visualizations and dashboards using Tableau
+7. Create visualizations and dashboards using Excel
 
 ## Future Work
 In the future, we plan to expand our analysis to include more job markets and identify job trends in other countries. We also plan to improve the data cleaning process to automate and make it more efficient.
 
-## Contributors
-- [Insert name of contributor]
-- [Insert name of contributor]
-- [Insert name of contributor]
 
-## Contact Information
-If you have any questions or feedback about our project, please contact us at [Insert email address or contact information].
-v
