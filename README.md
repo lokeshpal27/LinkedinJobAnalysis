@@ -21,9 +21,14 @@ We used SQL to analyze the cleaned data. Our analysis included various queries t
 
 ## Dashboard
 We created a dynamic dashboard using Tableau to visualize our insights in a more interactive and engaging way.
+<img width="745" alt="image" src="https://github.com/lokeshpal27/LinkedinJobAnalysis/assets/114469389/7c531666-5c94-4589-b14c-749216ec440d">
+
 
 ## Conclusion
 Our analysis showed that Bengalore has the most number of jobs and Jammu and Kashmir has the least number of jobs. We hope that our findings will be useful to job seekers and companies in making informed decisions.
+
+<img width="416" alt="image" src="https://github.com/lokeshpal27/LinkedinJobAnalysis/assets/114469389/bebbfded-8cb3-436e-b3a9-19e5adf99d7a">
+
 
 ## Dependencies
 To run this project, you will need the following dependencies:
@@ -33,6 +38,9 @@ To run this project, you will need the following dependencies:
 - Selenium
 - SQL database (MySQL, PostgreSQL, SQLite, etc.)
 - Tableau
+- <img width="136" alt="image" src="https://github.com/lokeshpal27/LinkedinJobAnalysis/assets/114469389/f1822c82-40cf-4ca9-b09a-37aa8427c68f"><img width="41" alt="image" src="https://github.com/lokeshpal27/LinkedinJobAnalysis/assets/114469389/763c55c5-3179-4042-a9b9-191efe86e18c">
+
+
 
 ## How to Use
 1. Clone the repository to your local machine
